@@ -1,6 +1,22 @@
 #  About Me:
- I'm currently working on Full-Stack Web Development and AI-powered applications<br><br> I'm looking to collaborate on MERN Stack, AI/ML, and Open Source Projects<br><br> I'm looking for help with System Design, Cloud Computing, and Advanced Machine Learning<br><br> I'm currently learning Data Structures & Algorithms, Machine Learning, and Generative AI<br><br> Ask me about Java, React, Node.js, MongoDB, Web Development, and DSA<br><br>⚡ Fun fact I'm fascinated by how AI can turn ideas into products that impact real people.
+I'm passionate about building full-stack applications, AI-powered products, and technology-driven solutions that create real-world impact.
 
+My interests lie at the intersection of software engineering, artificial intelligence, startups, and product development. I enjoy transforming ideas into scalable products, exploring new technologies, and solving meaningful problems through code.
+
+Currently focused on Full-Stack Development, Backend Systems, AI Applications, and building products with a startup mindset. I'm always interested in collaborating on innovative projects, open-source contributions, and ventures that combine technology with business.
+
+I believe the best products are built when technology, creativity, and execution come together.
+
+"Vision turns ideas into possibilities. Execution turns possibilities into reality."
+I'm passionate about building full-stack applications, AI-powered products, and technology-driven solutions that create real-world impact.
+
+My interests lie at the intersection of software engineering, artificial intelligence, startups, and product development. I enjoy transforming ideas into scalable products, exploring new technologies, and solving meaningful problems through code.
+
+Currently focused on Full-Stack Development, Backend Systems, AI Applications, and building products with a startup mindset. I'm always interested in collaborating on innovative projects, open-source contributions, and ventures that combine technology with business.
+
+I believe the best products are built when technology, creativity, and execution come together.
+
+"Vision turns ideas into possibilities. Execution turns possibilities into reality."
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig._.tanush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanush-varayogi-34b803290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanushchandhra.vyogi@gmail.com) 
