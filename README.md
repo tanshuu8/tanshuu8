@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 I'm currently working on Full-Stack Web Development and AI-powered applications<br><br>🤝 I'm looking to collaborate on MERN Stack, AI/ML, and Open Source Projects<br><br>🛠️ I'm looking for help with System Design, Cloud Computing, and Advanced Machine Learning<br><br>🌱 I'm currently learning Data Structures & Algorithms, Machine Learning, and Generative AI<br><br>💬 Ask me about Java, React, Node.js, MongoDB, Web Development, and DSA<br><br>⚡ Fun fact I'm fascinated by how AI can turn ideas into products that impact real people.
+#  About Me:
+ I'm currently working on Full-Stack Web Development and AI-powered applications<br><br> I'm looking to collaborate on MERN Stack, AI/ML, and Open Source Projects<br><br>🛠️ I'm looking for help with System Design, Cloud Computing, and Advanced Machine Learning<br><br> I'm currently learning Data Structures & Algorithms, Machine Learning, and Generative AI<br><br> Ask me about Java, React, Node.js, MongoDB, Web Development, and DSA<br><br>⚡ Fun fact I'm fascinated by how AI can turn ideas into products that impact real people.
 
 
 ## 🌐 Socials:
